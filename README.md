@@ -1,2 +1,0 @@
-# datadrivenjest
-Created with CodeSandbox
